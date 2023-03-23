@@ -1,1 +1,1 @@
-web: bundle exec jekyll build && npm start
+web: bundle exec jekyll build && ruby -run -e httpd _site
