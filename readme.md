@@ -1,5 +1,5 @@
-![](https://user-images.githubusercontent.com/2342458/194169079-aa12e92d-87fd-4da4-9afd-93de44874dae.png)
-# Kinsta - Hello World - Static Site With Jekyll 🚀
+![Jekyll](https://user-images.githubusercontent.com/2342458/227201223-77cd42ef-ef91-405d-ad46-c491f6dbda27.png)
+# Kinsta - Hello World - Static Site With Jekyll
 
 An example of how to deploy a static site built with Jekyll on Kinsta App Hosting services.
 
