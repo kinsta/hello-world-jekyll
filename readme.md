@@ -12,7 +12,7 @@ Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it eas
 
 ## Dependency Management
 
-During the deployment process, Kinsta will automatically install dependencies defined in your `package.json` file.
+During the deployment process, Kinsta will automatically install dependencies defined in your `Gemfile` file.
 
 ## Web Server Setup
 
