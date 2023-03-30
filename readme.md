@@ -29,4 +29,4 @@ When deploying an application, Kinsta automatically creates a web process based 
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `bundle install` command is run.
 
 ## What is Jekyll
-Jekyll is an open-source static site generator that uses dynamic React components to produce a customized static site without the need for a database. More information is available on the [Jekyll](https://jekyllrb.com/) website.
+Jekyll is an open-source static site generator that uses text written in your favorite markup language to produce a customized static site without the need for a database. More information is available on the [Jekyll](https://jekyllrb.com/) website.
