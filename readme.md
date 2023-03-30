@@ -12,7 +12,7 @@ Kinsta is a developer-centric cloud host / PaaS. We’re striving to make it eas
 
 ## Dependency Management
 
-During the deployment process, Kinsta will automatically install dependencies defined in your `Gemfile` file.
+Kinsta automatically installs dependencies defined in your `Gemfile` file during the deployment process.
 
 ## Web Server Setup
 
@@ -22,13 +22,11 @@ Kinsta automatically sets the `PORT` environment variable. You should **not** de
 
 ### Start Command
 
-When deploying an application Kinsta will automatically create a web process based on the content of `Procfile` as the entry point.
+When deploying an application, Kinsta automatically creates a web process based on the content of `Procfile` as the entry point.
 
 ## Deployment Lifecycle
 
 Whenever a deployment is initiated (through creating an application or re-deploying due to an incoming commit) the `bundle install` command is run.
 
 ## What is Jekyll
-**Jekyll** is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
-
-More info on the [Jekyll](https://jekyllrb.com/) website.
+Jekyll is an open-source static site generator that uses dynamic React components to produce a customized static site without the need for a database. More information is available on the [Jekyll](https://jekyllrb.com/) website.
